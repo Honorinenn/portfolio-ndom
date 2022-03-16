@@ -78,8 +78,7 @@ function Projects() {
               imgPath={booksearch}
               isBlog={false}
               title="API Book Search Engine"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="This Application is Google Books API Search Engine built in MERN Stack using GraphQL API. As a user you can sign up for an account and login. The user can search for books and save their preferred books."
               link="https://book-search-engine-hn.herokuapp.com/ "
             />
           </Col>
@@ -89,8 +88,7 @@ function Projects() {
               imgPath={notetaker}
               isBlog={false}
               title="Note Taker"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="This application is a note taker application that is used to write and save notes. It is uses Express.js and it saves, and and retrieves note data from a JSON file."
               link="https://note1t.herokuapp.com/"
             />
           </Col>
