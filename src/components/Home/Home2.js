@@ -16,39 +16,38 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              <span className="green">  </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am a hard-working, detail-oriented Software Engineer passionate about learning, researching, and writing code. 
               <br />
-              <br />I am fluent in classics like
+              <br /> I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="green"> For every project I undertake, my goal is to best enlist my audience for an effective user experience. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I am interested in &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="green">Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                <b className="green">
+                  Machine Learning.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="green">Node.js</b> and
               <i>
-                <b className="purple">
+                <b className="green">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="green"> React.js and Vue.js</b>
               </i>
             </p>
           </Col>
@@ -60,14 +59,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>WHERE TO CONTACT ME</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              You can <span className="purple">contact </span> me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Honorinenn"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/honorine_nn"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/honorine-ndom-ndzah-79347787/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/honibel8/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

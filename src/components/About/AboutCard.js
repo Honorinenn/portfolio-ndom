@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Honorine Ndom Ndzah</span>
             from <span className="purple"> Seattle, Washington.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a Software Engineer based in 
+            Seattle, WA.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
