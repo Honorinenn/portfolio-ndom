@@ -58,7 +58,7 @@ function Projects() {
               imgPath={musictrivia}
               isBlog={false}
               title="Music Trivia"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This application is a Music trivia game app, where the user is provided with a lyric, the user then guesses the song. The user has to answer a series of questions where, each song they get correct increases their score and their score is saved on the leaderboard."
               link="https://github.com/BCole37/Project-1-Music-Trivia"
             />
           </Col>
