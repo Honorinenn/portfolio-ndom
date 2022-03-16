@@ -28,7 +28,7 @@ function Projects() {
               imgPath={impressme}
               isBlog={false}
               title="Impress ME"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Impress ME is an influencer platform which focuses on the sharing of products by various organizations or individuals from all categories and domains of works. In this app users can share an existing product or a new product and have followers comment and follow their post."
               link="https://impress-me-app.herokuapp.com/"
             />
           </Col>
@@ -38,7 +38,7 @@ function Projects() {
               imgPath={pinko}
               isBlog={false}
               title="PINKO"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="PinKO is a photo sharing platform that focuses on clothing. PinKO also has a clothing store in which users can make purchases through the use of PayPal."
               link="https://mysterious-gorge-30415.herokuapp.com/"
             />
           </Col>
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={workout}
               isBlog={false}
               title="Workout Tracker"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="The workout tracker Application which enables the user to be able to view, create, and track daily workouts. This fitness workout app is built in consideration with the MVC standards and it takes in new exercises and uses MongoDB with Mongoose to log the user to the database. "
               link="https://workout-tracker-hn.herokuapp.com/"
             />
           </Col>
