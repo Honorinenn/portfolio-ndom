@@ -14,22 +14,23 @@ function AboutCard() {
             Seattle, WA.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Software Engineer leveraging Quality Assurance Engineering background to build a more constitutive user experience for the software. Recently earned a certificate in Full Stack Development from the University of Washington, Seattle with newly developed skills in JavaScript, HTML, CSS, React.js, Node.js, SQL, MongoDB, dynamoDB, GraphQL, Java, Python, C#, AWS and responsive web design.
+
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> 
             </li>
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Contribute to and improve daily patterns of life which rely on technology!"{" "}
           </p>
           <footer className="blockquote-footer">Honorine Ndom Ndzah</footer>
         </blockquote>
