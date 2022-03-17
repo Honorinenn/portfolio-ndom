@@ -8,6 +8,7 @@ import {
   DiAtlassian,
   DiJira,
   DiStackoverflow,
+  DiGithub,
 } from "react-icons/di";
 
 function Toolstack() {
@@ -27,6 +28,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithub />
       </Col>
     </Row>
   );
