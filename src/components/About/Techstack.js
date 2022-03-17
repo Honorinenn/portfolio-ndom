@@ -2,12 +2,20 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
+  DiBootstrap,
+  DiHtml5,
+  DiCss3,
+  DiAws,
+  DiUikit,
+  DiMysql,
+  DiJava,
   DiJavascript1,
   DiReact,
   DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
+  
 } from "react-icons/di";
 import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
 
@@ -19,6 +27,27 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiAws />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiUikit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />

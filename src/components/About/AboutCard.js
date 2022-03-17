@@ -10,23 +10,23 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Honorine Ndom Ndzah</span>
             from <span className="purple"> Seattle, Washington.</span>
-            <br />I am a Software Engineer based in 
-            Seattle, WA.
+            <br />
+
             <br />
             <br />
-            Software Engineer leveraging Quality Assurance Engineering background to build a more constitutive user experience for the software. Recently earned a certificate in Full Stack Development from the University of Washington, Seattle with newly developed skills in JavaScript, HTML, CSS, React.js, Node.js, SQL, MongoDB, dynamoDB, GraphQL, Java, Python, C#, AWS and responsive web design.
+            Software Engineer leveraging Quality Assurance Engineering background to build a more constitutive user experience for the software. Recently earned a certificate in Full Stack Development from the University of Washington, Seattle with newly developed skills in:
 
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> 
+              <ImPointRight />Front-end: HTML5, CSS, JQuery, JavaScript, Bootstrap, ReactJS, Semantic UI, UIkit  
             </li>
             <li className="about-activity">
-              <ImPointRight /> 
+              <ImPointRight /> Back-end:  SQL, MySQL, NoSQL, MongoDB, DynamoDB Express, Node.js, Handlebars, AWS, Webpack, REST API, GraphQL, Python, Java, C#
             </li>
-            <li className="about-activity">
+            {/* <li className="about-activity">
               <ImPointRight /> 
-            </li>
+            </li> */}
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
