@@ -17,7 +17,7 @@ import {
   DiGit,
   
 } from "react-icons/di";
-// import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import { SiGraphql, } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -33,6 +33,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiAws />
