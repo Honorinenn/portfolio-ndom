@@ -22,7 +22,7 @@ function AboutCard() {
               <ImPointRight />Front-end: HTML5, CSS, JQuery, JavaScript, Bootstrap, ReactJS, Semantic UI, UIkit  
             </li>
             <li className="about-activity">
-              <ImPointRight /> Back-end:  SQL, MySQL, NoSQL, MongoDB, DynamoDB Express, Node.js, Handlebars, AWS, REST API, GraphQL, Python, Java, Spring boot, Spring MVC, Microservices 
+              <ImPointRight /> Back-end:  SQL, MySQL, NoSQL, MongoDB, DynamoDB Express, Node.js, Handlebars, AWS, REST API, GraphQL, Python, Java, Spring boot, Spring MVC, Microservices, Kubernetes, Docker, Message queue, Unit testing, Integration testing, Data Structures, Algorithm 
             </li>
             {/* <li className="about-activity">
               <ImPointRight /> 
