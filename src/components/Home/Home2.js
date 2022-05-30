@@ -47,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="green"> React.js and Vue.js</b>
+                <b className="green"> React.js </b>
               </i>
             </p>
           </Col>

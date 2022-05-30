@@ -14,7 +14,7 @@ function AboutCard() {
 
             <br />
             <br />
-            Software Engineer leveraging Quality Assurance Engineering background to build a more constitutive user experience for the software. Recently earned a certificate in Full Stack Development from the University of Washington, Seattle with newly developed skills in:
+            Software Engineer leveraging Quality Assurance Engineering background to build a more constitutive user experience for a software. 
 
           </p>
           <ul>
@@ -22,7 +22,7 @@ function AboutCard() {
               <ImPointRight />Front-end: HTML5, CSS, JQuery, JavaScript, Bootstrap, ReactJS, Semantic UI, UIkit  
             </li>
             <li className="about-activity">
-              <ImPointRight /> Back-end:  SQL, MySQL, NoSQL, MongoDB, DynamoDB Express, Node.js, Handlebars, AWS, Webpack, REST API, GraphQL, Python, Java, Spring boot, Spring MVC, Microservices 
+              <ImPointRight /> Back-end:  SQL, MySQL, NoSQL, MongoDB, DynamoDB Express, Node.js, Handlebars, AWS, REST API, GraphQL, Python, Java, Spring boot, Spring MVC, Microservices 
             </li>
             {/* <li className="about-activity">
               <ImPointRight /> 
