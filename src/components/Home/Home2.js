@@ -19,7 +19,7 @@ function Home2() {
               <span className="green">  </span> 
             </h1>
             <p className="home-about-body">
-              I am a hard-working, detail-oriented Software Engineer passionate about learning, researching, and writing code. 
+              I am a detail-oriented Software Engineer passionate about learning, researching, and writing code. 
               <br />
               <br /> I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.
               <i>
