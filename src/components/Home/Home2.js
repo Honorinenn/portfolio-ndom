@@ -19,7 +19,7 @@ function Home2() {
               <span className="green">  </span> 
             </h1>
             <p className="home-about-body">
-              I am a detail-oriented Software Engineer passionate about learning, researching, and writing code. 
+              I am a detail-oriented Software Engineer passionate about programming devices, learning and researching on new Technologies such as Artificial Intelligence/Machine Learning. 
               <br />
               <br /> I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.
               <i>
@@ -29,7 +29,7 @@ function Home2() {
               <br />
               I am interested in &nbsp;
               <i>
-                <b className="green">Web Technologies and Products </b> and
+                <b className="green">Embedded Software Development </b> and
                 also in areas related to{" "}
                 <b className="green">
                   Machine Learning.
