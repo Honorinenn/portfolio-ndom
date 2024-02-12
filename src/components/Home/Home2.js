@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I am a detail-oriented Software Engineer passionate about programming devices, learning and researching on new Technologies such as Artificial Intelligence/Machine Learning. 
               <br />
-              <br /> I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.
+              <br />Solutiondriven Software Engineer which brings on board hands-on experience in front-end and back-end.
               <i>
                 <b className="green"> For every project I undertake, my goal is to best enlist my audience for an effective user experience. </b>
               </i>
